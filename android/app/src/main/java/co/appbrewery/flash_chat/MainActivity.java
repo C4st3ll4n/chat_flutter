@@ -1,4 +1,4 @@
-package co.appbrewery.flash_chat;
+package br.com.henrique.flashchat;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "936644624787",
+    "firebase_url": "https://proprofessor-8f41f.firebaseio.com",
+    "project_id": "proprofessor-8f41f",
+    "storage_bucket": "proprofessor-8f41f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936644624787:android:417e516ac569d8c8bca866",
+        "android_client_info": {
+          "package_name": "br.com.henrique.flashchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936644624787-7rffdgeu9v94u6fve1qncgqnm8puim44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.henrique.flashchat",
+            "certificate_hash": "bf8f57495863f71aeb2e58d83a5e540c933373a3"
+          }
+        },
+        {
+          "client_id": "936644624787-mb00omebj4n094nkmjabqa1vopar7ndo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsFgxCfmdkEG0ppHhxCVUDSGgeNs3YoUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936644624787-mb00omebj4n094nkmjabqa1vopar7ndo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
